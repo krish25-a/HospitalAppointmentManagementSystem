@@ -25,14 +25,20 @@ This project was initially developed as part of a course by **Bhrugen Patel**, a
 
 How to run: 
 • Download and extract the project ZIP from GitHub.
+
 • Open the solution (.sln) in Visual Studio.
+
 • Restore NuGet packages (Right-click solution → Restore 
 NuGet Packages).
+
 • Create the database in SQL Server and run the provided 
 .sql script.
+
 • Update the connection string in appsettings.json with 
 your server and database name.
+
 • Build the solution (Build → Build Solution).
+
 • Press F5 to run the project and test Admin, Doctor, and 
 Patient features
 
