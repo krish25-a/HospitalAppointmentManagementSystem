@@ -1,5 +1,6 @@
-# Hospital Appointment Management System
+Title: Hospital Appointment Management System
 
+Description:
 This project is a **comprehensive Hospital Appointment Management System** built using **ASP.NET Core MVC with C# (.NET 8)**. It is designed to streamline the appointment scheduling process while ensuring robust user role authentication and access control.
 
 ## Key Features:
@@ -20,6 +21,21 @@ This project is a **comprehensive Hospital Appointment Management System** built
 - **C# (OOP)** for backend logic and application structure.
 
 This project was initially developed as part of a course by **Bhrugen Patel**, and I have since expanded and customized it further. His guidance was instrumental in shaping this project.
+
+
+How to run: 
+• Download and extract the project ZIP from GitHub.
+• Open the solution (.sln) in Visual Studio.
+• Restore NuGet packages (Right-click solution → Restore 
+NuGet Packages).
+• Create the database in SQL Server and run the provided 
+.sql script.
+• Update the connection string in appsettings.json with 
+your server and database name.
+• Build the solution (Build → Build Solution).
+• Press F5 to run the project and test Admin, Doctor, and 
+Patient features
+
 
 ## Tags:
 - .NET Core
